@@ -1,0 +1,22 @@
+running develop
+running egg_info
+writing emotion_agent.egg-info/PKG-INFO
+writing dependency_links to emotion_agent.egg-info/dependency_links.txt
+writing entry points to emotion_agent.egg-info/entry_points.txt
+writing requirements to emotion_agent.egg-info/requires.txt
+writing top-level names to emotion_agent.egg-info/top_level.txt
+reading manifest file 'emotion_agent.egg-info/SOURCES.txt'
+writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages/emotion-agent.egg-link (link to .)
+Installing bandit_agent script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing emotion_model_node script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing emotion_stub script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing expression_controller script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing face_publisher script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing gz_avatar_motion script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing gz_simple_bot_controller script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+Installing reward_keyboard script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+
+Installed /home/yu-liu/emotion_agent_ws/build/emotion_agent
+running symlink_data

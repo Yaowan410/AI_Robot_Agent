@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: emotion-agent
+Version: 0.0.1
+Summary: Emotion-aware robot agent with contextual bandit learning
+Maintainer: you
+Maintainer-email: you@example.com
+License: MIT

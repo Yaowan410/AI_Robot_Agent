@@ -1,0 +1,23 @@
+[0.874s] Invoking command in '/home/yu-liu/emotion_agent_ws/build/emotion_agent': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yu-liu/emotion_agent_ws/build/emotion_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yu-liu/emotion_agent_ws/build/emotion_agent/build --no-deps symlink_data
+[1.229s] running develop
+[1.445s] running egg_info
+[1.464s] writing emotion_agent.egg-info/PKG-INFO
+[1.466s] writing dependency_links to emotion_agent.egg-info/dependency_links.txt
+[1.466s] writing entry points to emotion_agent.egg-info/entry_points.txt
+[1.466s] writing requirements to emotion_agent.egg-info/requires.txt
+[1.467s] writing top-level names to emotion_agent.egg-info/top_level.txt
+[1.513s] reading manifest file 'emotion_agent.egg-info/SOURCES.txt'
+[1.514s] writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+[1.540s] running build_ext
+[1.540s] Creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages/emotion-agent.egg-link (link to .)
+[1.541s] Installing bandit_agent script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.542s] Installing emotion_stub script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] Installing expression_controller script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] Installing face_publisher script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] Installing gz_avatar_motion script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] Installing gz_simple_bot_controller script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] Installing reward_keyboard script to /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/emotion_agent
+[1.543s] 
+[1.543s] Installed /home/yu-liu/emotion_agent_ws/build/emotion_agent
+[1.543s] running symlink_data
+[1.619s] Invoked command in '/home/yu-liu/emotion_agent_ws/build/emotion_agent' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yu-liu/emotion_agent_ws/build/emotion_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yu-liu/emotion_agent_ws/build/emotion_agent/build --no-deps symlink_data

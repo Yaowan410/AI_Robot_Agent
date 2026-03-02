@@ -1,0 +1,21 @@
+Run rqt check images:
+source /opt/ros/jazzy/setup.bash
+ros2 run rqt_image_view rqt_image_view
+
+Start Gazebo:
+gz sim
+
+Start bridge:
+source /opt/ros/jazzy/setup.bash
+ros2 run ros_gz_bridge parameter_bridge \
+/model/tugbot/cmd_vel@geometry_msgs/msg/Twist@gz.msgs.Twist
+
+Start launcher:
+cd ~/emotion_agent_ws
+source install/setup.bash
+ros2 launch emotion_agent demo.launch.py
+
+Reward:
+cd ~/emotion_agent_ws
+source install/setup.bash
+ros2 run emotion_agent reward_keyboard

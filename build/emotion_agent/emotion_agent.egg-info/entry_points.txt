@@ -1,0 +1,9 @@
+[console_scripts]
+bandit_agent = emotion_agent.bandit_agent:main
+emotion_model_node = emotion_agent.emotion_model_node:main
+emotion_stub = emotion_agent.emotion_stub:main
+expression_controller = emotion_agent.expression_controller:main
+face_publisher = emotion_agent.face_publisher:main
+gz_avatar_motion = emotion_agent.gz_avatar_motion:main
+gz_simple_bot_controller = emotion_agent.gz_simple_bot_controller:main
+reward_keyboard = emotion_agent.reward_keyboard:main

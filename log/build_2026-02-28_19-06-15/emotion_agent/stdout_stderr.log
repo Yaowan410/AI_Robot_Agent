@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating emotion_agent.egg-info
+writing emotion_agent.egg-info/PKG-INFO
+writing dependency_links to emotion_agent.egg-info/dependency_links.txt
+writing requirements to emotion_agent.egg-info/requires.txt
+writing top-level names to emotion_agent.egg-info/top_level.txt
+writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+reading manifest file 'emotion_agent.egg-info/SOURCES.txt'
+writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages/emotion-agent.egg-link (link to .)
+
+Installed /home/yu-liu/emotion_agent_ws/build/emotion_agent
+running symlink_data
+creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index
+creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index
+creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index/packages
+symbolically linking /home/yu-liu/emotion_agent_ws/build/emotion_agent/resource/emotion_agent -> /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index/packages
+symbolically linking /home/yu-liu/emotion_agent_ws/build/emotion_agent/package.xml -> /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/emotion_agent

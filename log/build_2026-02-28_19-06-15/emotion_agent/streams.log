@@ -1,0 +1,22 @@
+[1.047s] Invoking command in '/home/yu-liu/emotion_agent_ws/build/emotion_agent': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yu-liu/emotion_agent_ws/build/emotion_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yu-liu/emotion_agent_ws/build/emotion_agent/build --no-deps symlink_data
+[1.334s] running develop
+[1.515s] running egg_info
+[1.515s] creating emotion_agent.egg-info
+[1.532s] writing emotion_agent.egg-info/PKG-INFO
+[1.533s] writing dependency_links to emotion_agent.egg-info/dependency_links.txt
+[1.533s] writing requirements to emotion_agent.egg-info/requires.txt
+[1.533s] writing top-level names to emotion_agent.egg-info/top_level.txt
+[1.533s] writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+[1.568s] reading manifest file 'emotion_agent.egg-info/SOURCES.txt'
+[1.569s] writing manifest file 'emotion_agent.egg-info/SOURCES.txt'
+[1.587s] running build_ext
+[1.588s] Creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages/emotion-agent.egg-link (link to .)
+[1.588s] 
+[1.588s] Installed /home/yu-liu/emotion_agent_ws/build/emotion_agent
+[1.589s] running symlink_data
+[1.589s] creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index
+[1.589s] creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index
+[1.589s] creating /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index/packages
+[1.589s] symbolically linking /home/yu-liu/emotion_agent_ws/build/emotion_agent/resource/emotion_agent -> /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/ament_index/resource_index/packages
+[1.589s] symbolically linking /home/yu-liu/emotion_agent_ws/build/emotion_agent/package.xml -> /home/yu-liu/emotion_agent_ws/install/emotion_agent/share/emotion_agent
+[1.621s] Invoked command in '/home/yu-liu/emotion_agent_ws/build/emotion_agent' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yu-liu/emotion_agent_ws/build/emotion_agent/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yu-liu/emotion_agent_ws/install/emotion_agent/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yu-liu/emotion_agent_ws/build/emotion_agent/build --no-deps symlink_data
