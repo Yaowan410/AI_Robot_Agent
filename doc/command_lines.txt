@@ -19,3 +19,8 @@ Reward:
 cd ~/emotion_agent_ws
 source install/setup.bash
 ros2 run emotion_agent reward_keyboard
+
+AvatarMotion:
+source /opt/ros/jazzy/setup.bash
+source ~/emotion_agent_ws/install/setup.bash
+ros2 run emotion_agent gz_avatar_motion
