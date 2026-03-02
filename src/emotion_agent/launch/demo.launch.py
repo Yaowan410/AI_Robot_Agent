@@ -3,16 +3,6 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
     return LaunchDescription([
-        # 1) 先用 stub 模拟情绪模型输出（你后面替换成真实模型）
-        Node(
-            package="emotion_agent",
-            executable="emotion_stub",
-            name="emotion_stub",
-            output="screen",
-            parameters=[{
-                "publish_hz": 0.5,   # 每2秒换一次情绪，方便你看
-            }]
-        ),
 
         # 2) bandit agent：订阅 emotion+credibility，输出 face_id + body_id
         Node(
