@@ -13,3 +13,12 @@ __pycache__/
 # VSCode / OS
 .vscode/
 .DS_Store
+
+# ROS2 / colcon
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
